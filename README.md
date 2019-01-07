@@ -1,6 +1,7 @@
 <![endif]-->
 
-SDD – Properties- BOM item – SCON-4121
+SDD – Properties- BOM item – SCON-4121![enter image description here](https://github.com/ottocesc/ottocesc.github.io/blob/master/assets/variantconfig.PNG)
+![enter image description here](ottocesc.github.io/assets/variantconfig.PNG)
 
 Requirements
 
@@ -44,6 +45,6 @@ NOTE: in the Simulation environment, the ObjectKey is the simulation id.**
   
 The retrieval functionality is implemented under the _CL_LO_VCHCLF_VCH_RT_ class in the _ODATA_LO_VCHCLF_VCH_ package. _GET_BOM_NODE_ function is used to retrieve the related properties.  for more in-depth information regarding this please check the BOM explosion SDD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTUxOTY0MywtNTI5MDk5NDAwLDc4MD
-A5Mjk4OF19
+eyJoaXN0b3J5IjpbLTE1NTc2MzM5NzEsLTUyOTA5OTQwMCw3OD
+AwOTI5ODhdfQ==
 -->
